@@ -2,12 +2,14 @@
 
 **T-Sender Airdrop** is a full-stack monorepo for simulating and managing ERC-20 token airdrops. It combines a smart contract project built with [Foundry](https://github.com/foundry-rs/foundry) and a modern [Next.js](https://nextjs.org/) web application for interacting with the airdrop via a user-friendly UI.
 
+![alt text](https://github.com/harshq/t-sender-airdrop/blob/main/screenshot.png?raw=true)
 ---
 
 ## 🧱 Monorepo Structure
 
 This project is managed with [Turborepo](https://turbo.build/repo), enabling efficient build, lint, and dev workflows across multiple apps and packages.
 
+```
 t-sender/
 ├── apps/
 │ ├── contract/ # Foundry project for deploying and testing ERC-20 airdrop logic
@@ -16,6 +18,7 @@ t-sender/
 ├── package.json
 ├── turbo.json
 └── ...
+```
 
 ## Install dependancies
 
