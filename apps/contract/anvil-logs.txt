@@ -1,0 +1,20 @@
+
+    Transaction: 0x4bf6cb19be5528f641410ddefbdd9cb736647acc4eadaf88a8742089417f419d
+    Contract created: 0x5FbDB2315678afecb367f032d93F642f64180aa3
+    Gas used: 421712
+
+    Block Number: 1
+    Block Hash: 0xa3fd13e56b5db491841ae6c43554bae306bacf4b7bb9e8143403b5174d558bc5
+    Block Time: "Mon, 30 Jun 2025 11:40:03 +0000"
+
+
+    Transaction: 0x3046613ef5b927c7114f98b33d00c5fc3f91ab9f83d98674c0462b743bdabf85
+    Contract created: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+    Gas used: 916831
+
+    Transaction: 0xc0440457d583fabe2f53595884458ed4540da211370fea1fa89f223b70f2e17e
+    Gas used: 985766
+
+    Block Number: 2
+    Block Hash: 0x47aefe6e16e72f913c9acc83275b34bdef7be913dc54ba3062b40443ef969a70
+    Block Time: "Mon, 30 Jun 2025 11:40:03 +0000"
